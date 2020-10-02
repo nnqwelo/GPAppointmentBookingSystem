@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GPAppointmentBookingSystem</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="register">Register</string>
+    <string name="Login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="Register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="DeleteData">Delete</string>
+    <string name="UpdateData">Update</string>
+    <string name="ViewData">View</string>
+    <string name="AddData">Add</string>
+    <string name="Time">Time</string>
+    <string name="Date">Date</string>
+    <string name="Surname">Surname</string>
+    <string name="Name">Name</string>
+    <string name="ID">ID</string>
+</resources>

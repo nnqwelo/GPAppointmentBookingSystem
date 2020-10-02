@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editText_confirmPassword" type="id" />
+    <item name="editText_register" type="id" />
+    <item name="editText_name" type="id" />
+    <item name="editText_date" type="id" />
+    <item name="editText_time" type="id" />
+    <item name="editText_surname" type="id" />
+    <item name="editText_ID" type="id" />
+    <item name="button_addData" type="id" />
+    <item name="button_deleteData" type="id" />
+    <item name="button_updateData" type="id" />
+    <item name="button_View" type="id" />
+    <item name="button_register" type="id" />
+    <item name="textView_login" type="id" />
+</resources>
